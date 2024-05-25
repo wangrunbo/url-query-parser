@@ -1,6 +1,6 @@
 # url-query-parser
 
-Parse url query into a map.
+A tooltip of golang for parsing url query into a map.
 
 ## Installation
 
